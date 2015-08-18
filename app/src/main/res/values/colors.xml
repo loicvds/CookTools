@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <color name="ColorPrimary">#ffa232</color>
+        <color name="ColorPrimaryLight">#ffffc04d</color>
+        <color name="ColorPrimaryDark">#ffff8c00</color>
+        <color name="tabsScrollColor">#ffff8c00</color>
+        <color name="CalculatorDark">#ff272933</color>
+        <color name="CalculatorLight">#ff545668</color>
+
+        <color name="myAccentColor">#FF4081</color>
+        <color name="myDrawerBackground">#ff545668</color>
+        <color name="myWindowBackground">#ffffffff</color>
+        <color name="myTextPrimaryColor">#FFF</color>
+        <color name="myNavigationColor">#ff272933</color>
+
+        <drawable name="pressed_gray">#ffffc04d</drawable>
+        <drawable name="selected_gray">#ffffc04d</drawable>
+    </resources>

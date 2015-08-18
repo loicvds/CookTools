@@ -1,0 +1,238 @@
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ff272933">
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2">
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="00:00:00"
+                    android:id="@+id/textChr1"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:editable="true"
+                    android:textSize="30dp"
+                    android:layout_marginBottom="1dp"
+                    android:background="#ff545668" />
+            </LinearLayout>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="set"
+                android:id="@+id/btnSet1"
+                android:layout_gravity="right"
+                android:background="@drawable/calculate_button"
+                android:textColor="#ffffffff"
+                android:layout_weight="0.7" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Start"
+                android:id="@+id/button1"
+                android:layout_gravity="right"
+                android:layout_weight="0.6"
+                android:background="@drawable/calculate_button"
+                android:textColor="#ffffffff" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2" >
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="00:00:00"
+                    android:id="@+id/textChr2"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:editable="true"
+                    android:textSize="30dp"
+                    android:layout_marginBottom="1dp"
+                    android:background="#ff545668" />
+            </LinearLayout>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="set"
+                android:id="@+id/btnSet2"
+                android:layout_gravity="right"
+                android:background="@drawable/calculate_button"
+                android:textColor="#ffffffff"
+                android:layout_weight="0.7" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Start"
+                android:id="@+id/button2"
+                android:layout_gravity="right"
+                android:layout_weight="0.6"
+                android:background="@drawable/calculate_button"
+                android:textColor="#ffffffff" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2" >
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="00:00:00"
+                    android:id="@+id/textChr3"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:editable="true"
+                    android:textSize="30dp"
+                    android:layout_marginBottom="1dp"
+                    android:background="#ff545668" />
+            </LinearLayout>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="set"
+                android:id="@+id/btnSet3"
+                android:layout_gravity="right"
+                android:background="@drawable/calculate_button"
+                android:textColor="#ffffffff"
+                android:layout_weight="0.7" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Start"
+                android:id="@+id/button3"
+                android:layout_weight="0.6"
+                android:background="@drawable/calculate_button"
+                android:textColor="#ffffffff" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2" >
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="00:00:00"
+                    android:id="@+id/textChr4"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:editable="true"
+                    android:textSize="30dp"
+                    android:layout_marginBottom="1dp"
+                    android:background="#ff545668" />
+            </LinearLayout>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="set"
+                android:id="@+id/btnSet4"
+                android:layout_gravity="right"
+                android:background="@drawable/calculate_button"
+                android:textColor="#ffffffff"
+                android:layout_weight="0.7" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Start"
+                android:id="@+id/button4"
+                android:layout_gravity="right"
+                android:layout_weight="0.6"
+                android:background="@drawable/calculate_button"
+                android:textColor="#ffffffff" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.2" >
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.3" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:textAppearance="?android:attr/textAppearanceLarge"
+                    android:text="00:00:00"
+                    android:id="@+id/textChr5"
+                    android:gravity="center_vertical|center_horizontal"
+                    android:editable="true"
+                    android:textSize="30dp"
+                    android:background="#ff545668" />
+            </LinearLayout>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="set"
+                android:id="@+id/btnSet5"
+                android:layout_gravity="right"
+                android:background="@drawable/calculate_button"
+                android:textColor="#ffffffff"
+                android:layout_weight="0.7" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Start"
+                android:id="@+id/button5"
+                android:layout_gravity="right"
+                android:layout_weight="0.6"
+                android:background="@drawable/calculate_button"
+                android:textColor="#ffffffff" />
+        </LinearLayout>
+
+    </LinearLayout>

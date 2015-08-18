@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="number_people">
+        <item>1 pers</item>
+        <item>2 pers</item>
+        <item>3 pers</item>
+        <item>4 pers</item>
+        <item>5 pers</item>
+        <item>6 pers</item>
+        <item>7 pers</item>
+        <item>8 pers</item>
+        <item>9 pers</item>
+        <item>10 pers</item>
+        <item>11 pers</item>
+        <item>12 pers</item>
+        <item>13 pers</item>
+        <item>14 pers</item>
+        <item>15 pers</item>
+        <item>16 pers</item>
+        <item>17 pers</item>
+        <item>18 pers</item>
+        <item>19 pers</item>
+        <item>20 pers</item>
+    </string-array>
+    <string-array name="unit_litre">
+        <item>ml</item>
+        <item>cl</item>
+        <item>dl</item>
+        <item>l</item>
+    </string-array>
+    <string-array name="unit_gramme">
+        <item>mg</item>
+        <item>g</item>
+        <item>kg</item>
+    </string-array>
+    <string-array name="unit_spoon">
+        <item>cuillère à soupe</item>
+        <item>cuillère à café</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Lo\OneDrive\CookTools\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\Lo\OneDrive\CookTools\app\build\intermediates\pre-dexed\debug\classes-53d00735ff41df1b72e459582cf11f5ddd283430.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lo\OneDrive\CookTools\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\Lo\OneDrive\CookTools\app\build\intermediates\pre-dexed\debug\classes-303e852b43b36d08539ab5222a13ba448805e0ab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lo\OneDrive\CookTools\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="C:\Users\Lo\OneDrive\CookTools\app\build\intermediates\pre-dexed\debug\classes-cac9fa16716889dea29247ba969b4afa51e5cad0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lo\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\Lo\OneDrive\CookTools\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-655e01c9fd4f0e93f919626ef22889b43591f5f9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Lo\OneDrive\CookTools\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\Lo\OneDrive\CookTools\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-ed630067b9959fb70ed438da13521e7bd967b821.jar" />
+    </item>
+
+</items>

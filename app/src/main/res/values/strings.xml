@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CookTools</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Calculatrices</string>
+    <string name="title_activity_timer">Minuteurs</string>
+    <string name="drawer_open">Menu opened</string>
+    <string name="drawer_close">Menu closed</string>
+    <string name="time">Temps: </string>
+</resources>
